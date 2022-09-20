@@ -3,7 +3,7 @@
   <a href="https://techy-anshika.netlify.app/" target="_blank">Anshika Gupta</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img2.png" />
+  <img alt="Demo" src="./Images/new-image.png" />
 </div>
 
 <br/>
