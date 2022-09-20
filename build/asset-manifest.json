@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02954bf4.css",
+    "main.js": "/static/js/main.23ef04a3.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/unbiased.png": "/static/media/unbiased.7506feec89e979c6f372.png",
+    "static/media/change-logo1.png": "/static/media/change-logo1.ac39bfe8c4f5bfed86df.png",
+    "static/media/care.png": "/static/media/care.ee9c6ffcc22ef8b7c8e5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/avtar-final1.png": "/static/media/avtar-final1.6b8803072822c4e4a356.png",
+    "static/media/boston.png": "/static/media/boston.f788adc7864bacf96934.png",
+    "static/media/chatify.png": "/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/leaf.png": "/static/media/leaf.4c15d6eb3fc75cfef85b.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/official-Anshika-Resume.pdf": "/static/media/official-Anshika-Resume.da8ffe34a0a3da394aa7.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/emotion.jpeg": "/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.02954bf4.css.map": "/static/css/main.02954bf4.css.map",
+    "main.23ef04a3.js.map": "/static/js/main.23ef04a3.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02954bf4.css",
+    "static/js/main.23ef04a3.js"
+  ]
+}
